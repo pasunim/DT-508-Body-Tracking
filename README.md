@@ -1,4 +1,4 @@
-# DT-508-Body-Landmark-Detection
+# DT-508-Body-Tracking
 
 โปรแกรมตรวจจับและวาด Pose Skeleton บนวิดีโอหรือกล้องเว็บแคมแบบ Real-time โดยใช้ MediaPipe Pose Landmarker และ OpenCV
 
